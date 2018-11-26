@@ -1,0 +1,236 @@
+[
+  {
+    "created_at":"Thu Nov 22 01:50:31 +0000 2018",
+    "id":1065422239141638144,
+    "id_str":"1065422239141638144",
+    "text":"@pejacoby Hi there, Paul. Sorry to hear you're having trouble. You can also manually enter the code(s) by pressing\u2026 https:\/\/t.co\/ydFxDWbMpf",
+    "truncated":true,
+    "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"pejacoby",
+          "name":"Paul Jacoby",
+          "id":36056095,
+          "id_str":"36056095",
+          "indices":[
+            0,
+            9
+          ]
+        }
+      ],
+      "urls":[
+        {
+          "url":"https:\/\/t.co\/ydFxDWbMpf",
+          "expanded_url":"https:\/\/twitter.com\/i\/web\/status\/1065422239141638144",
+          "display_url":"twitter.com\/i\/web\/status\/1\u2026",
+          "indices":[
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source":"\u003ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003eSprinklr\u003c\/a\u003e",
+    "in_reply_to_status_id":1064209041411514369,
+    "in_reply_to_status_id_str":"1064209041411514369",
+    "in_reply_to_user_id":36056095,
+    "in_reply_to_user_id_str":"36056095",
+    "in_reply_to_screen_name":"pejacoby",
+    "user":{
+      "id":26787673,
+      "id_str":"26787673"
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "favorited":false,
+    "retweeted":false,
+    "lang":"en"
+  },
+  {
+    "created_at":"Wed Nov 21 23:52:04 +0000 2018",
+    "id":1065392431120699392,
+    "id_str":"1065392431120699392",
+    "text":"@TayLevacy Thank you for reaching out and sharing with us. We've made the program better. Now you can earn rewards\u2026 https:\/\/t.co\/CAoZkyHm0f",
+    "truncated":true,
+    "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"TayLevacy",
+          "name":"Taylor Levacy",
+          "id":923971977156710400,
+          "id_str":"923971977156710400",
+          "indices":[
+            0,
+            10
+          ]
+        }
+      ],
+      "urls":[
+        {
+          "url":"https:\/\/t.co\/CAoZkyHm0f",
+          "expanded_url":"https:\/\/twitter.com\/i\/web\/status\/1065392431120699392",
+          "display_url":"twitter.com\/i\/web\/status\/1\u2026",
+          "indices":[
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source":"\u003ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003eSprinklr\u003c\/a\u003e",
+    "in_reply_to_status_id":1061706895440912384,
+    "in_reply_to_status_id_str":"1061706895440912384",
+    "in_reply_to_user_id":923971977156710400,
+    "in_reply_to_user_id_str":"923971977156710400",
+    "in_reply_to_screen_name":"TayLevacy",
+    "user":{
+      "id":26787673,
+      "id_str":"26787673"
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "favorited":false,
+    "retweeted":false,
+    "possibly_sensitive":false,
+    "lang":"en"
+  },
+  {
+    "created_at":"Wed Nov 21 23:49:29 +0000 2018",
+    "id":1065391781901213697,
+    "id_str":"1065391781901213697",
+    "text":"@JasminAlexia4 This holiday season, we hope to surprise fans with our special Coca-Cola gift packages and encourage\u2026 https:\/\/t.co\/fPP4iyXJjG",
+    "truncated":true,
+    "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"JasminAlexia4",
+          "name":"Jasmin, but sleep deprived",
+          "id":1019037105002110976,
+          "id_str":"1019037105002110976",
+          "indices":[
+            0,
+            14
+          ]
+        }
+      ],
+      "urls":[
+        {
+          "url":"https:\/\/t.co\/fPP4iyXJjG",
+          "expanded_url":"https:\/\/twitter.com\/i\/web\/status\/1065391781901213697",
+          "display_url":"twitter.com\/i\/web\/status\/1\u2026",
+          "indices":[
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source":"\u003ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003eSprinklr\u003c\/a\u003e",
+    "in_reply_to_status_id":1063184838130364422,
+    "in_reply_to_status_id_str":"1063184838130364422",
+    "in_reply_to_user_id":1019037105002110976,
+    "in_reply_to_user_id_str":"1019037105002110976",
+    "in_reply_to_screen_name":"JasminAlexia4",
+    "user":{
+      "id":26787673,
+      "id_str":"26787673"
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":1,
+    "favorite_count":1,
+    "favorited":false,
+    "retweeted":false,
+    "lang":"en"
+  },
+  {
+    "created_at":"Wed Nov 21 23:48:24 +0000 2018",
+    "id":1065391511200768002,
+    "id_str":"1065391511200768002",
+    "text":"@xCarlyMcx Hi Carly, Yes you can still purchase a personalized glass bottle at https:\/\/t.co\/J5m1mn0P5c.",
+    "truncated":false,
+    "entities":{
+      "hashtags":[
+
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"xCarlyMcx",
+          "name":"Carly McDougall",
+          "id":83670799,
+          "id_str":"83670799",
+          "indices":[
+            0,
+            10
+          ]
+        }
+      ],
+      "urls":[
+        {
+          "url":"https:\/\/t.co\/J5m1mn0P5c",
+          "expanded_url":"http:\/\/Cokestore.com",
+          "display_url":"Cokestore.com",
+          "indices":[
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "source":"\u003ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003eSprinklr\u003c\/a\u003e",
+    "in_reply_to_status_id":1063527466386493440,
+    "in_reply_to_status_id_str":"1063527466386493440",
+    "in_reply_to_user_id":83670799,
+    "in_reply_to_user_id_str":"83670799",
+    "in_reply_to_screen_name":"xCarlyMcx",
+    "user":{
+      "id":26787673,
+      "id_str":"26787673"
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "favorited":false,
+    "retweeted":false,
+    "possibly_sensitive":false,
+    "lang":"en"
+  }
+]

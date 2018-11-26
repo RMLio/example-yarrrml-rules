@@ -1,0 +1,47 @@
+@prefix emit: <http://coca-cola.com/emit/> .
+@prefix ov: <http://open.vocab.org/terms/> .
+@prefix prov-said: <http://semweb.datasciencelab.be/ns/prov-said/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix tsioc: <http://rdfs.org/sioc/types#> .
+
+emit:820882001277849_2169022539814557 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "2018-11-13T01:02:00+0000";
+  <http://www.w3.org/ns/prov#startedAtTime> "2018-11-13T01:02:00+0000";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <https://coca-cola.com/#me> .
+
+emit:820882001277849_2242864155746286 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "2018-11-13T01:03:11+0000";
+  <http://www.w3.org/ns/prov#startedAtTime> "2018-11-13T01:03:11+0000";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <https://coca-cola.com/#me> .
+
+emit:820882001277849_313056145953449 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "2018-11-21T01:12:24+0000";
+  <http://www.w3.org/ns/prov#startedAtTime> "2018-11-21T01:12:24+0000";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <https://coca-cola.com/#me> .
+
+<http://coca-cola.com/facebook/820882001277849_2169022539814557> a ov:MicroblogPost,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "Spread kindness. Share the ❤️️. #WorldKindnessDay #RefreshTheFeed";
+  <http://schema.org/mainEntityOfPage> "https://www.facebook.com/CocaColaUnitedStates/videos/2169022539814557/";
+  <http://www.w3.org/ns/prov#label> "Spread kindness. Share the ❤️️. #WorldKindnessDay #RefreshTheFeed";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <https://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:820882001277849_2169022539814557 .
+
+<http://coca-cola.com/facebook/820882001277849_2242864155746286> a ov:MicroblogPost,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "This #WorldKindnessDay, we’re spreading a little love and positivity. ➡️ to 😃. #RefreshTheFeed";
+  <http://schema.org/mainEntityOfPage> "https://www.facebook.com/CocaColaUnitedStates/posts/2242864155746286";
+  <http://www.w3.org/ns/prov#label> "This #WorldKindnessDay, we’re spreading a little love and positivity. ➡️ to 😃. #RefreshTheFeed";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <https://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:820882001277849_2242864155746286 .
+
+<http://coca-cola.com/facebook/820882001277849_313056145953449> a ov:MicroblogPost,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "What’s the one thing that never fails to make you smile? 😀 #RefreshTheFee";
+  <http://schema.org/mainEntityOfPage> "https://www.facebook.com/CocaColaUnitedStates/videos/313056145953449/";
+  <http://www.w3.org/ns/prov#label> "What’s the one thing that never fails to make you smile? 😀 #RefreshTheFee";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <https://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:820882001277849_313056145953449 .

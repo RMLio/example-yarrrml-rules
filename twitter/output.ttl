@@ -1,0 +1,62 @@
+@prefix emit: <http://coca-cola.com/emit/> .
+@prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix ov: <http://open.vocab.org/terms/> .
+@prefix prov-said: <http://semweb.datasciencelab.be/ns/prov-said/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix tsioc: <http://rdfs.org/sioc/types#> .
+
+emit:1065391511200768002 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "Wed Nov 21 23:48:24 +0000 2018";
+  <http://www.w3.org/ns/prov#startedAtTime> "Wed Nov 21 23:48:24 +0000 2018";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <http://coca-cola.com/#me> .
+
+emit:1065391781901213697 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "Wed Nov 21 23:49:29 +0000 2018";
+  <http://www.w3.org/ns/prov#startedAtTime> "Wed Nov 21 23:49:29 +0000 2018";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <http://coca-cola.com/#me> .
+
+emit:1065392431120699392 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "Wed Nov 21 23:52:04 +0000 2018";
+  <http://www.w3.org/ns/prov#startedAtTime> "Wed Nov 21 23:52:04 +0000 2018";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <http://coca-cola.com/#me> .
+
+emit:1065422239141638144 a <http://www.w3.org/ns/prov#Activity>;
+  <http://www.w3.org/ns/prov#endedAtTime> "Thu Nov 22 01:50:31 +0000 2018";
+  <http://www.w3.org/ns/prov#startedAtTime> "Thu Nov 22 01:50:31 +0000 2018";
+  <http://www.w3.org/ns/prov#type> prov-said:EmitMessage;
+  <http://www.w3.org/ns/prov#wasStartedBy> <http://coca-cola.com/#me> .
+
+<http://coca-cola.com/facebook/1065391511200768002> a ov:MicroblogPost, fabio:Tweet,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "@xCarlyMcx Hi Carly, Yes you can still purchase a personalized glass bottle at https://t.co/J5m1mn0P5c.";
+  <http://schema.org/mainEntityOfPage> "https://twitter.com/CocaCola/status/1065391511200768002";
+  <http://www.w3.org/ns/prov#label> "@xCarlyMcx Hi Carly, Yes you can still purchase a personalized glass bottle at https://t.co/J5m1mn0P5c.";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <http://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:1065391511200768002 .
+
+<http://coca-cola.com/facebook/1065391781901213697> a ov:MicroblogPost, fabio:Tweet,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "@JasminAlexia4 This holiday season, we hope to surprise fans with our special Coca-Cola gift packages and encourage… https://t.co/fPP4iyXJjG";
+  <http://schema.org/mainEntityOfPage> "https://twitter.com/CocaCola/status/1065391781901213697";
+  <http://www.w3.org/ns/prov#label> "@JasminAlexia4 This holiday season, we hope to surprise fans with our special Coca-Cola gift packages and encourage… https://t.co/fPP4iyXJjG";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <http://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:1065391781901213697 .
+
+<http://coca-cola.com/facebook/1065392431120699392> a ov:MicroblogPost, fabio:Tweet,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "@TayLevacy Thank you for reaching out and sharing with us. We've made the program better. Now you can earn rewards… https://t.co/CAoZkyHm0f";
+  <http://schema.org/mainEntityOfPage> "https://twitter.com/CocaCola/status/1065392431120699392";
+  <http://www.w3.org/ns/prov#label> "@TayLevacy Thank you for reaching out and sharing with us. We've made the program better. Now you can earn rewards… https://t.co/CAoZkyHm0f";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <http://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:1065392431120699392 .
+
+<http://coca-cola.com/facebook/1065422239141638144> a ov:MicroblogPost, fabio:Tweet,
+    tsioc:MicroblogPost, <http://schema.org/SocialMediaPosting>, <http://www.w3.org/ns/prov#Entity>;
+  <http://schema.org/articleBody> "@pejacoby Hi there, Paul. Sorry to hear you're having trouble. You can also manually enter the code(s) by pressing… https://t.co/ydFxDWbMpf";
+  <http://schema.org/mainEntityOfPage> "https://twitter.com/CocaCola/status/1065422239141638144";
+  <http://www.w3.org/ns/prov#label> "@pejacoby Hi there, Paul. Sorry to hear you're having trouble. You can also manually enter the code(s) by pressing… https://t.co/ydFxDWbMpf";
+  <http://www.w3.org/ns/prov#wasAttributedTo> <http://coca-cola.com/#me>;
+  <http://www.w3.org/ns/prov#wasGeneratedBy> emit:1065422239141638144 .
