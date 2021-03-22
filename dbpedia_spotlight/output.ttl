@@ -1,0 +1,11 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix ex: <http://example.com/>.
+@prefix idlab-fn: <http://example.com/idlab/function/>.
+
+ex:John a foaf:Person;
+    ex:city <http://dbpedia.org/resource/Paris>.
+ex:Jane a foaf:Person;
+    ex:city <http://dbpedia.org/resource/Brussels>.
+ex:Sarah a foaf:Person;
+    ex:city <http://dbpedia.org/resource/New_York_City>.
