@@ -1,0 +1,19 @@
+{
+  "persons": [
+      {
+          "firstname": "John",
+          "lastname": "Doe",
+          "city": "Paris"
+      },
+      {
+          "firstname": "Jane",
+          "lastname": "Smith",
+          "city": "Brussels"
+      },
+      {
+          "firstname": "Sarah",
+          "lastname": "Bladinck",
+          "city": "New York"
+      }
+  ]
+}
