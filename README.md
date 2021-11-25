@@ -2,9 +2,10 @@
 
 This repository contains example [YARRRML](https://w3id.org/yarrrml) rules to generate Linked Data
 
-- when using [DBpedia Spotlight](https://www.dbpedia-spotlight.org/)
-- from your Facebook data
-- from your Twitter data
+- `dbpedia_spotlight`: when using [DBpedia Spotlight](https://www.dbpedia-spotlight.org/)
+- `facebook`: mapping your Facebook data
+- `multiple_conditions`: joining 2 mappings based on multiple conditions (logical AND by default)
+- `twitter`: mapping your Twitter data
 
 ## License
 
