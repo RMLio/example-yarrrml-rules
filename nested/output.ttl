@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix ex: <http://example.com#>.
+@prefix grel: <http://users.ugent.be/~bjdmeest/function/grel.ttl#>.
+@prefix idlab-fn: <http://example.com/idlab/function/>.
+
+<http://example.com#1> a ex:Person;
+    ex:label "Ben";
+    ex:isFriendsWith ex:heroes_batman.
+<http://example.com#2> a ex:Person;
+    ex:label "NotBen".
+<http://example.com#3> a ex:Person;
+    ex:label "Pieter";
+    ex:isFriendsWith ex:heroes_super.
+<http://example.com#4> a ex:Person;
+    ex:label "NotPieter".
+ex:heroes_batman a ex:Hero;
+    ex:label "Batman".
+ex:heroes_super a ex:Hero;
+    ex:label "Superman".
